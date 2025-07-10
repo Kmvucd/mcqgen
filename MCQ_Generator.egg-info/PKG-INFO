@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: MCQ_Generator
+Version: 0.0.1
+Author: Vimarish K M
+Author-email: vimarish.kuttapalayammani@ucdconnect.ie
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF
