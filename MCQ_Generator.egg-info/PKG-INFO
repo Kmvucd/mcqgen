@@ -5,5 +5,7 @@ Author: Vimarish K M
 Author-email: vimarish.kuttapalayammani@ucdconnect.ie
 Requires-Dist: openai
 Requires-Dist: langchain
+Requires-Dist: langchain_community
+Requires-Dist: pandas
+Requires-Dist: PyPDF2
 Requires-Dist: python-dotenv
-Requires-Dist: PyPDF

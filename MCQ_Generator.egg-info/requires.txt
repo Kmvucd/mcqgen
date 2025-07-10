@@ -1,4 +1,6 @@
 openai
 langchain
+langchain_community
+pandas
+PyPDF2
 python-dotenv
-PyPDF
